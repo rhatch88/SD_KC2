@@ -1,0 +1,14 @@
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\bin\Debug\net8.0\SD_KC2.exe
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\bin\Debug\net8.0\SD_KC2.deps.json
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\bin\Debug\net8.0\SD_KC2.runtimeconfig.json
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\bin\Debug\net8.0\SD_KC2.dll
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\bin\Debug\net8.0\SD_KC2.pdb
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.AssemblyInfoInputs.cache
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.AssemblyInfo.cs
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.csproj.CoreCompileInputs.cache
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.dll
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\refint\SD_KC2.dll
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.pdb
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.genruntimeconfig.cache
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\ref\SD_KC2.dll
