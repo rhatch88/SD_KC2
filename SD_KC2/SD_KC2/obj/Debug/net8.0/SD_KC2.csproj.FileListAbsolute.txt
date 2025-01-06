@@ -12,3 +12,4 @@ C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\refint\S
 C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.pdb
 C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.genruntimeconfig.cache
 C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\ref\SD_KC2.dll
+C:\Users\whatc\Documents\projects\SD_KC2\SD_KC2\SD_KC2\obj\Debug\net8.0\SD_KC2.sourcelink.json
